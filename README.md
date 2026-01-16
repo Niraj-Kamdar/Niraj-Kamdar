@@ -1,6 +1,7 @@
 ![](./intro.gif)
 
 Want to create cool Intro gif like me? checkout: [Giftro](https://giftroo.netlify.app/)
+
 Recent Blogs:
 - [10,000 Applicants. 28 Positions. The Brutal Math of Web3 Hiring in 2026](https://crypto.forem.com/kniraj/10000-applicants-28-positions-the-brutal-math-of-web3-hiring-in-2026-58po)
 - [Building Infrastructure for Handling Millions of Bitcoin UTXOs at Scale](https://crypto.forem.com/kniraj/building-infrastructure-for-handling-millions-of-bitcoin-utxos-at-scale-391g)
